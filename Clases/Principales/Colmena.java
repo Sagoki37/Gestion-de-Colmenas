@@ -12,8 +12,8 @@ public class Colmena {
     private final Date fechaCreacion;
 
     private String id;
-    private String ubicacion;
     private String tipo;
+    private String ubicacion;
     private String estadoSalud;
     private byte cantidadAbejas;
     private float produccionMiel;
